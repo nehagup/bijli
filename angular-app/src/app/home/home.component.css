@@ -1,0 +1,55 @@
+h1 {
+    font-size: 28px;  
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;      
+}
+
+
+
+.bodytext {
+    text-align: justify;
+    text-align-last: center;
+    font-size: 16px;/*
+    background-image: url("triangle.png");*/
+    background-size: cover;
+/*    border-style: inset;
+    border-width: 2px;  */
+}
+
+.participant {
+    border-style: inset;
+    background-color: white;
+    display: inline-block;
+    /* width: 300px; */
+    height: 200px;
+    border-radius: 25px;
+    /*border: 2px solid #ffffff*/;
+    border:none;    
+    padding: 20px; 
+}
+
+.participantButton {
+    /* background-color: #008CBA; */
+    background-color: #26a69a;
+
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.steps{
+    text-align: left;
+    border-bottom: 1px solid ;
+}
+#step2{
+    margin-top: -30px;
+}
